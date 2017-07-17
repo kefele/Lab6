@@ -25,7 +25,7 @@ public class PigLatin {
 
 
 
-            if ((firstLett == 'a') || (firstLett == 'e') || (firstLett == 'i') || (firstLett == 'o')) {
+            if ((firstLett == 'a') || (firstLett == 'e') || (firstLett == 'i') || (firstLett == 'o') ||(firstLett=='u')) {
 
                 System.out.println(userWord + way);
 
